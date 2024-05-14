@@ -16,4 +16,4 @@
 <h3>Ex3</h3>
 <p>Declare uma variável do tipo double precoProduto e uma variável do tipo int (quantidade). Calcule o valor total multiplicando o preço do produto pela quantidade e apresente o resultado em uma mensagem.</p>
 <h3>Ex4</h3>
-<p>Declare uma variável do tipo double valorEmDolares. Atribua um valor em dólares a essa variável. Considere que o valor de 1 dólar é equivalente a 4.94 reais. Realize a conversão do valor em dólares para reais e imprima o resultado formatado.</p>
+<p>Declare uma variável do tipo double valorEmDolares. Atribua um valor em dólares a essa variável. Considere que o valor de 1 dólar é equivalente a 5.16 reais. Realize a conversão do valor em dólares para reais e imprima o resultado formatado.</p>

@@ -5,7 +5,7 @@
 <p>A pasta desafio terá todos os trabalhos um pouco mais complexos desta jornada. Aqui ficará detalhada qual foi a proposta do desafio e sua numeração correspodente, EX: Desafio01, na pasta o código ficará à disposição, mostrando como a solução foi realizada.</p>
 
 <h2>Práticas:</h2>
-<p>Esta pasta terá todos as proposta de práticas, para treinar os conhecimentos apresentados ao aluno. da mesma forma que nos desafios, aqui na pasta "Práticas", o código ficará à disposição e sua proposta ficará aqui com sua numeração correspondente. </p>
+<p>Esta pasta terá todas as proposta de práticas, para treinar os conhecimentos apresentados ao aluno. da mesma forma que nos desafios, aqui na pasta "Práticas", o código ficará à disposição e sua proposta ficará aqui com sua numeração correspondente. </p>
 
 <h3>Ex0</h3>
 <p>Crie um programa que realize a média de duas notas decimais e exiba o resultado.</p>

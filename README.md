@@ -1,10 +1,10 @@
 <h1>Sobre o Repositório:</h1>
 <p>Este repositório foi feito para armazenar e observar a progressão das práticas e desafios proposto pelo o curso em Java orfetado pela Oracle.</p>
 
-<h2>Desafios:</h2>
+<h1>Desafios:</h1>
 <p>A pasta desafio terá todos os trabalhos um pouco mais complexos desta jornada. Aqui ficará detalhada qual foi a proposta do desafio e sua numeração correspodente, EX: Desafio01, na pasta o código ficará à disposição, mostrando como a solução foi realizada.</p>
 
-Desafio 01 :
+<h2>Desafio 01 : </h2>h2>
 Crie um programa que simula um jogo de adivinhação, que deve gerar um número aleatório entre 0 e 100 e pedir para que o usuário tente adivinhar o número, em até 5 tentativas. A cada tentativa, o programa deve informar se o número digitado pelo usuário é maior ou menor do que o número gerado.
 
 **Dicas:**
@@ -16,7 +16,7 @@ Crie um programa que simula um jogo de adivinhação, que deve gerar um número 
 - Utilize a instrução `break;` para interromper o loop.
 
 
-<h2>Práticas:</h2>
+<h1>Práticas:</h1>
 <p>Esta pasta terá todas as proposta de práticas, para treinar os conhecimentos apresentados ao aluno. da mesma forma que nos desafios, aqui na pasta "Práticas", o código ficará à disposição e sua proposta ficará aqui com sua numeração correspondente. </p>
 
 <h3>Ex0</h3>

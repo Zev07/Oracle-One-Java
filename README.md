@@ -4,7 +4,7 @@
 <h1>Desafios:</h1>
 <p>A pasta desafio terá todos os trabalhos um pouco mais complexos desta jornada. Aqui ficará detalhada qual foi a proposta do desafio e sua numeração correspodente, EX: Desafio01, na pasta o código ficará à disposição, mostrando como a solução foi realizada.</p>
 
-<h2>Desafio 01 : </h2>h2>
+<h2>Desafio 01 : </h2>
 Crie um programa que simula um jogo de adivinhação, que deve gerar um número aleatório entre 0 e 100 e pedir para que o usuário tente adivinhar o número, em até 5 tentativas. A cada tentativa, o programa deve informar se o número digitado pelo usuário é maior ou menor do que o número gerado.
 
 **Dicas:**
